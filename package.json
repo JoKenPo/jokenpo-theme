@@ -21,6 +21,10 @@
 		"email": "eduardo.almeida.job@gmail.com",
 		"url": "https://github.com/JoKenPo"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/JoKenPo/jokenpo-theme"
+	},
     "contributes": {
         "themes": [
             {
