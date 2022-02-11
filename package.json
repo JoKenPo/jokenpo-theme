@@ -3,6 +3,21 @@
     "displayName": "JoKenPo Theme",
     "description": "Tema de VSCode criado por mim para mim",
     "version": "0.0.1",
+	"scripts": {
+		"publish": "vsce publish"
+	},
+	"publisher": "EduardoAlmeida",
+	"author": {
+		"name": "Eduardo Almeida",
+		"email": "eduardo.almeida.job@gmail.com",
+		"url": "https://github.com/JoKenPo"
+	},
+	"icon": "logo.png",
+	"galleryBanner": {
+		"color": "#15141b",
+		"theme": "dark"
+	},
+	"license": "MIT",
     "engines": {
         "vscode": "^1.63.0"
     },
