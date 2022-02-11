@@ -1,8 +1,8 @@
 {
-    "name": "jokenpo-theme",
-    "displayName": "JoKenPo Theme",
-    "description": "Tema de VSCode criado por mim para mim",
-    "version": "0.0.1",
+	"name": "jokenpo-theme",
+	"displayName": "JoKenPo Theme",
+	"description": "Tema de VSCode criado por mim para mim",
+	"version": "0.0.2",
 	"scripts": {
 		"publish": "vsce publish"
 	},
@@ -18,35 +18,29 @@
 		"theme": "dark"
 	},
 	"license": "MIT",
-    "engines": {
-        "vscode": "^1.63.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    
+	"engines": {
+		"vscode": "^1.63.0"
+	},
+	"categories": [
+		"Themes"
+	],
 	"keywords": [
 		"theme",
 		"dark",
 		"jokenpo-theme",
 		"color-theme"
 	],
-	"author": {
-		"name": "Eduardo Almeida",
-		"email": "eduardo.almeida.job@gmail.com",
-		"url": "https://github.com/JoKenPo"
-	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/JoKenPo/jokenpo-theme"
 	},
-    "contributes": {
-        "themes": [
-            {
-                "label": "JoKenPo Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/jokenpo-color-theme.json"
-            }
-        ]
-    }
+	"contributes": {
+		"themes": [
+			{
+				"label": "JoKenPo Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/jokenpo-color-theme.json"
+			}
+		]
+	}
 }
