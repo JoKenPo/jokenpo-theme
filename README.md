@@ -51,11 +51,11 @@ yo code
 ```
 Now you have a theme project.
 
-3. To test on your VSCode you need to paste the project on the extensions paste from VSCode.
-Windows:
-C:\Users\{User}\.vscode\extensions
+3. To test on your VSCode you need to paste the project on the extensions paste from VSCode. <br>
+Windows: <br>
+C:/Users/YourUser/.vscode/extensions
   
-4. On VSCode, press CTRL+K and CTRL+T and your theme will appears
+4. On VSCode, press CTRL+K and CTRL+T and your theme will appears.
   
 # Contributors
 
