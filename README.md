@@ -55,7 +55,7 @@ Now you have a theme project.
 Windows:
 C:\Users\{User}\.vscode\extensions
   
-4.On VSCode, press CTRL+K and CTRL+T and your theme will appears
+4. On VSCode, press CTRL+K and CTRL+T and your theme will appears
   
 # Contributors
 
