@@ -17,9 +17,9 @@
 
 1. Install [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-# Changelog
+<!-- # Changelog -->
 
-[See full changelog](https://github.com/daltonmenezes/aura-theme/blob/main/packages/vscode/CHANGELOG.md)
+<!-- [See full changelog](https://github.com//CHANGELOG.md) -->
 
 # DIY a VSCode Theme
 
