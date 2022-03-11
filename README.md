@@ -36,18 +36,18 @@ npm install -g yo generator-code
 ```bash
 yo code
 
-# ? What type of extension do you want to create? New Color Theme
-# ? Do you want to import or convert an existing TextMate color theme? No, start fresh
-# ? What's the name of your extension? Teste Theme
-# ? What's the identifier of your extension? teste-theme
-# ? What's the description of your extension? My first theme
-# ? What's the name of your theme shown to the user? My First Theme
-# ? Select a base theme: Dark
-# ? Initialize a git repository? Yes
-# ? Bundle the source code with webpack? No
-# ? Which package manager to use? npm
+// ? What type of extension do you want to create? New Color Theme
+// ? Do you want to import or convert an existing TextMate color theme? No, start fresh
+// ? What's the name of your extension? Teste Theme
+// ? What's the identifier of your extension? teste-theme
+// ? What's the description of your extension? My first theme
+// ? What's the name of your theme shown to the user? My First Theme
+// ? Select a base theme: Dark
+// ? Initialize a git repository? Yes
+// ? Bundle the source code with webpack? No
+// ? Which package manager to use? npm
 
-# ? Do you want to open the new folder with Visual Studio Code? Open with `code`
+// ? Do you want to open the new folder with Visual Studio Code? Open with 'code'
 ```
 Now you have a theme project.
 
