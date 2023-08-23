@@ -603,7 +603,10 @@
 			"name": "Constants",
 			"scope": [
 				"constant",
-				"variable.other.constant"
+				"variable.other.constant",
+				"variable.other.constant.js",
+				"variable.other.constant.ts",
+				"variable.other.constant.tsx"
 			],
 			"settings": {
 				"foreground": "#78D1E1"
@@ -1061,10 +1064,7 @@
 			"scope": [
 				"variable",
 				"constant.other.key.perl",
-				"support.variable.property",
-				"variable.other.constant.js",
-				"variable.other.constant.ts",
-				"variable.other.constant.tsx"
+				"support.variable.property"
 			],
 			"settings": {
 				"foreground": "#78D1E1"
