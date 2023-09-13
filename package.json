@@ -2,7 +2,7 @@
 	"name": "jokenpo-theme",
 	"displayName": "JoKenPo Theme",
 	"description": "Tema de VSCode criado por mim para mim",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"scripts": {
 		"publish": "vsce publish",
 		"patch": "vsce publish patch",
