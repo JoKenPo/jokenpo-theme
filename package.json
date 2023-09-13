@@ -40,9 +40,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "JoKenPo Theme",
+				"label": "JoKenPo Obscure",
 				"uiTheme": "vs-dark",
 				"path": "./themes/jokenpo-color-theme.json"
+			},
+			{
+				"label": "JoKenKai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/jokenkai.json"
 			}
 		]
 	}
